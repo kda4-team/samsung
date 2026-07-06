@@ -1,4 +1,4 @@
-def division( 10 , 5):
-    if 5 == 0:
+def division( 10 , 2):
+    if 2 == 0:
         raise ValueError("Cannot divide by zero.")
-    return 10 / 5
+    return 10 / 2
